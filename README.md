@@ -1,4 +1,5 @@
 # Tech-blogs-Medium
+* [Effective Approaches for Executing Functions on Application Start-up in Spring Boot](https://medium.com/@ya.aman.ay/when-building-applications-with-spring-boot-there-often-arises-a-need-to-execute-specific-f3f3076f962f)
 
 * [How to Serialize and Deserialize XML with Jackson in Java](https://medium.com/@ya.aman.ay/how-to-serialize-and-deserialize-xml-with-jackson-in-java-991beeb2752f)
 
